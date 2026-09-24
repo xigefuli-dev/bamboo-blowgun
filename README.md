@@ -18,7 +18,7 @@ Minecraft Java Edition **26.2**, Java **25**, Fabric Loader **0.19.5**, Fabric A
 
 ## Install
 
-Use the release JAR with a Fabric installation that matches Minecraft 26.2. Put the JAR in that installation's `mods` folder. For multiplayer, both the client and server need this mod and Fabric API.
+After building, put `build/libs/bamboo-blowgun-0.5.0.jar` in the `mods` folder of a Fabric installation that matches Minecraft 26.2. For multiplayer, both the client and server need this mod and Fabric API.
 
 ### In-game commands
 
