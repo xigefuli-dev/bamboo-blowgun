@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "dev.bambooblowgun.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MinecraftAttackMixin",
+    "BlowgunFirstPersonMixin",
+    "BlowgunPlayerPoseMixin",
+    "BlowgunThirdPersonMixin",
+    "VenomHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

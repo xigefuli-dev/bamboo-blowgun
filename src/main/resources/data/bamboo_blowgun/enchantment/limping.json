@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.bamboo_blowgun.limping"
+  },
+  "supported_items": "#bamboo_blowgun:enchantable/blowgun",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 11
+  },
+  "max_cost": {
+    "base": 34,
+    "per_level_above_first": 13
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "mainhand"
+  ]
+}

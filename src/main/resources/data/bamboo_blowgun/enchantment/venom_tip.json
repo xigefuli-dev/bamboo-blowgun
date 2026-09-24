@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.bamboo_blowgun.venom_tip"
+  },
+  "supported_items": "#bamboo_blowgun:enchantable/blowgun",
+  "weight": 3,
+  "max_level": 1,
+  "min_cost": {
+    "base": 26,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 55,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {}
+}

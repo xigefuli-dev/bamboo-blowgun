@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "bamboo_blowgun",
+  "version": "${version}",
+  "name": "Bamboo Blowgun",
+  "description": "Left-click bamboo blowgun with heavy-drop wooden darts.",
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.bambooblowgun.BlowgunMod"
+    ],
+    "client": [
+      "dev.bambooblowgun.client.BlowgunClient"
+    ]
+  },
+  "mixins": [
+    "bamboo_blowgun.mixins.json",
+    {
+      "config": "modid.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

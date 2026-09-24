@@ -1,0 +1,12 @@
+{
+  "item.bamboo_blowgun.blowgun": "Bamboo Blowgun",
+  "item.bamboo_blowgun.dart": "Wooden Dart",
+  "entity.bamboo_blowgun.dart": "Wooden Dart",
+  "subtitles.bamboo_blowgun.fire": "Blowgun fires",
+  "subtitles.bamboo_blowgun.hit": "Dart hits",
+  "item.bamboo_blowgun.venom_dart": "Venom Dart",
+  "hud.bamboo_blowgun.venom": "Venom %s | %s stacks",
+  "enchantment.bamboo_blowgun.lightness": "Lightness",
+  "enchantment.bamboo_blowgun.limping": "Limping",
+  "enchantment.bamboo_blowgun.venom_tip": "Venom Tip"
+}

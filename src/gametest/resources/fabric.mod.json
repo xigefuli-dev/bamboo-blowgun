@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "bamboo_blowgun_test",
+  "version": "1.0.0",
+  "name": "Blowgun Game Tests",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": [
+      "dev.bambooblowgun.BlowgunGameTests"
+    ],
+    "fabric-client-gametest": [
+      "dev.bambooblowgun.BlowgunClientGameTest"
+    ]
+  }
+}

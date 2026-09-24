@@ -1,0 +1,7 @@
+{
+ "fire":{"subtitle":"subtitles.bamboo_blowgun.fire","sounds":[{"name":"bamboo_blowgun:fire","attenuation_distance":16}]},
+ "fire_quick_charge_1":{"subtitle":"subtitles.bamboo_blowgun.fire","sounds":[{"name":"bamboo_blowgun:fire_quick_charge_1","attenuation_distance":16}]},
+ "fire_quick_charge_2":{"subtitle":"subtitles.bamboo_blowgun.fire","sounds":[{"name":"bamboo_blowgun:fire_quick_charge_2","attenuation_distance":16}]},
+ "fire_quick_charge_3":{"subtitle":"subtitles.bamboo_blowgun.fire","sounds":[{"name":"bamboo_blowgun:fire_quick_charge_3","attenuation_distance":16}]},
+ "hit":{"subtitle":"subtitles.bamboo_blowgun.hit","sounds":[{"name":"bamboo_blowgun:hit","attenuation_distance":16}]}
+}

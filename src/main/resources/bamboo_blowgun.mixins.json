@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "dev.bambooblowgun.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "DartDamageMixin",
+    "DartKnockbackMixin",
+    "DartSoundMixin",
+    "DartHurtVoiceMixin",
+    "VenomLivingMixin",
+    "VenomCraftingMixin",
+    "VenomCrafterMixin",
+    "BlowgunVanillaEnchantmentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

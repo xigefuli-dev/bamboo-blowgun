@@ -1,0 +1,12 @@
+{
+  "item.bamboo_blowgun.blowgun": "竹制吹箭筒",
+  "item.bamboo_blowgun.dart": "吹箭矢",
+  "entity.bamboo_blowgun.dart": "吹箭矢",
+  "subtitles.bamboo_blowgun.fire": "吹箭：发射",
+  "subtitles.bamboo_blowgun.hit": "吹箭：命中",
+  "item.bamboo_blowgun.venom_dart": "剧毒吹箭矢",
+  "hud.bamboo_blowgun.venom": "剧毒阶段 %s | %s 层",
+  "enchantment.bamboo_blowgun.lightness": "轻盈",
+  "enchantment.bamboo_blowgun.limping": "跛行",
+  "enchantment.bamboo_blowgun.venom_tip": "淬毒"
+}
